@@ -14,9 +14,6 @@ let totalMassKg = crewMassKg + fuelMassKg + shuttleMassKg;
 let fuelTempCelsius = -225;
 let fuelLevel = 100;
 let weatherStatus = "clear";
-
-
-
 // Write code to generate the LC04 report here:
 
 
